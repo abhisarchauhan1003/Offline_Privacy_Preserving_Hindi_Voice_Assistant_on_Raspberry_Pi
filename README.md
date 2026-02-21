@@ -202,17 +202,17 @@ Full details are available in: docs/Final_Report.pdf
 
 ## Authors
 
-Abhisar Chauhan
-Electronics & Communication Engineering
-Chandigarh University
+- **Abhisar Chauhan**  
+  Electronics & Communication Engineering  
+  Chandigarh University  
 
-Harshada Kajale
-Electronics & Communication Engineering
-Chandigarh University
+- **Harshada Kajale**  
+  Electronics & Communication Engineering  
+  Chandigarh University  
 
-Yash Maggu
-Electronics & Communication Engineering
-Chandigarh University
+- **Yash Maggu**  
+  Electronics & Communication Engineering  
+  Chandigarh University  
 
 ---
 
