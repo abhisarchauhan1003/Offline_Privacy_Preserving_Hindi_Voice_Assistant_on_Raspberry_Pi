@@ -89,6 +89,7 @@ Speaker Output
 
 ## Project Structure
 
+```
 Hindi_Voice_Assistant/
 │
 ├── assistant.py # Main execution file
@@ -102,6 +103,7 @@ Hindi_Voice_Assistant/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
 
 ---
 
