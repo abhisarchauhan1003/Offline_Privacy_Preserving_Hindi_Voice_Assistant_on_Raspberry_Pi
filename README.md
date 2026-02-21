@@ -6,6 +6,13 @@ This project demonstrates real-time Hindi speech recognition and response genera
 
 ---
 
+## Demo Video
+
+▶️ **Project Demonstration Video:**  
+https://drive.google.com/file/d/1PFSGn15ZZnznzNaTkGL0Pxa-D_r56txZ/view?usp=sharing
+
+---
+
 ## Project Overview
 
 This system is designed to:
