@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+hindi_assistant_env/
+
+# Vosk model
+vosk-model-small-hi-0.22/
+vosk-model-small-hi-0.22.zip
+
+# Piper model
+model_data/*.onnx
+hi_IN-*.onnx
+
+# Piper engine
+piper/
+piper_linux_*.tar.gz
+
+# Audio files
+*.wav
+*.mp3
+
+# Logs
+*.log
