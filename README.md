@@ -142,7 +142,7 @@ python assistant.py
 
 ---
 
-Implementation Highlights:
+## Implementation Highlights:
 
 - Only final ASR results are processed (no unstable partial triggers)
 
