@@ -56,21 +56,23 @@ The assistant is optimized for Raspberry Pi and low-resource environments.
 
 ## System Architecture
 
+```
 User Speech
-↓
+    ↓
 Microphone (sounddevice)
-↓
+    ↓
 Vosk ASR Engine
-↓
+    ↓
 Intent Detection (intent.py)
-↓
+    ↓
 Action Processing (actions.py)
-↓
+    ↓
 Text Response
-↓
+    ↓
 Piper TTS
-↓
+    ↓
 Speaker Output
+```
 
 ---
 
