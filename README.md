@@ -142,7 +142,7 @@ python assistant.py
 
 ---
 
-## Implementation Highlights:
+## Implementation Highlights
 
 - Only final ASR results are processed (no unstable partial triggers)
 
@@ -156,7 +156,7 @@ python assistant.py
 
 ---
 
-Results:
+## Results
 
 - Real-time response latency under 2 seconds
 
@@ -168,7 +168,7 @@ Results:
 
 ---
 
-Limitations:
+## Limitations
 
 - Limited to predefined commands
 
@@ -178,7 +178,7 @@ Limitations:
 
 ---
 
-Future Improvements:
+## Future Improvements
 
 - Wake word detection
 
@@ -194,13 +194,13 @@ Future Improvements:
 
 ---
 
-Documentation:
+## Documentation
 
 Full details are available in: docs/Final_Report.pdf
 
 ---
 
-Authors: 
+## Authors
 
 Abhisar Chauhan
 Electronics & Communication Engineering
@@ -216,7 +216,6 @@ Chandigarh University
 
 ---
 
-License:
+## License
 
 This project is for academic and educational purposes.
-
