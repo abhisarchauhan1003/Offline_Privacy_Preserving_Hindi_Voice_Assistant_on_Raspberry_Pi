@@ -125,7 +125,7 @@ sudo apt install portaudio19-dev
 
 Models are not included due to large file size.
 
-Download:
+**Download:**
 
 1- Vosk Hindi Model: https://alphacephei.com/vosk/models
 Recommended: vosk-model-small-hi-0.22
